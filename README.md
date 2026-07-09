@@ -30,7 +30,7 @@
 ![Executive Overview](screenshots/page1_Executive_Overview.jpg)
 ![Product Analysis](screenshots/page2_Product_Analysis.jpg)
 ![Customer Analysis](screenshots/page3_Customer_Analysis.jpg)
-![Store & Delivery](screenshots/page4_Store&Delivery_Analysis.jpg)
+![Store & Delivery](screenshots/Page4_Store&Delivery_Analysis.jpg) 
 
 ## Key Insights
 1. Computers category generates the highest revenue, but Proseware 
